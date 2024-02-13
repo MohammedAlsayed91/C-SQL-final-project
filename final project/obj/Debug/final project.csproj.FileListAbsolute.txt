@@ -1,0 +1,7 @@
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\obj\Debug\final project.csproj.AssemblyReference.cache
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\obj\Debug\final project.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\bin\Debug\final project.exe.config
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\bin\Debug\final project.exe
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\bin\Debug\final project.pdb
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\obj\Debug\final project.exe
+C:\Users\User\OneDrive\Desktop\expenses\Mohammed projecct\final project\final project\obj\Debug\final project.pdb

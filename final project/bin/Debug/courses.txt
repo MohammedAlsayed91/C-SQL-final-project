@@ -1,0 +1,6 @@
+CourseId	CourseName
+1	C#
+2	SQL
+3	HTML
+4	OOP
+5	python
